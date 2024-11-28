@@ -1,22 +1,18 @@
-# Hello, I'm Ben Abasiono 
+# Hi, I'm Ben Abasiono 👋
 
 ## About Me
-- **Marketing Lead & Community Manager** with experience in blockchain projects.
-- Skilled in building communities and driving growth through effective marketing.
-
-## Current Projects
-- **[FoodieOnSol](https://twitter.com/FoodieOnSol)**: Memecoin project on Solana.
-
-## Role
-- Marketing Lead
+- **Current Role**: Marketing Lead at [FoodieOnSol](https://twitter.com/FoodieOnSol)
+- **Past Roles**: 
+  - Community Lead at Map Protocol
+  - Community Moderator at Katon.io, El Hippo
+  - Advocate at Graph Protocol
 
 ## Skills
-- Community Management
 - Social Media Marketing
+- Community Management
 - Content Creation
-- Collaboration Tools: Notion, Trello, Slack
 
 ## Let's Connect
-- [LinkedIn](www.linkedin.com/in/abas-ben).
+- [LinkedIn](www.linkedin.com/in/abas-ben)
 - [Twitter](https://x.com/AbasionoBen?s=09)
-- 
+
