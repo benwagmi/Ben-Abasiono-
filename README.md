@@ -17,7 +17,6 @@
 - Collaboration Tools: Notion, Trello, Slack
 
 ## Let's Connect
-- [LinkedIn](www.linkedin.com/in/
-abas-ben).
+- [LinkedIn](www.linkedin.com/in/abas-ben).
 - [Twitter](https://x.com/AbasionoBen?s=09)
 - 
