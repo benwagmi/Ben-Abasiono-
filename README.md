@@ -7,6 +7,9 @@
 ## Current Projects
 - **[FoodieOnSol](https://twitter.com/FoodieOnSol)**: Memecoin project on Solana.
 
+## Role
+- Marketing Lead
+
 ## Skills
 - Community Management
 - Social Media Marketing
